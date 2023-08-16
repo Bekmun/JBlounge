@@ -1,0 +1,12 @@
+/node_modules
+# /app
+package-lock.json
+README.md
+/src
+.ecrc
+.editorconfig
+.htmlhintrc
+/.vscode
+.stylelintrc.json
+gulpfile.js
+package.json
